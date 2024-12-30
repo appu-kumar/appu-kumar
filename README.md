@@ -92,3 +92,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=appu-kumar&show_icons=true&locale=en" alt="appu-kumar-stats" />
+</p>
+
+<h3 align="left">Current Streak:</h3>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appu-kumar&" alt="appu-kumar-streak" />
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=appu-kumar&show_icons=true&locale=en&layout=compact" alt="appu-kumar-languages" />
+</p>
+
+<h3 align="left">Activity Graph:</h3>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=appu-kumar&theme=github" alt="appu-kumar-activity" />
+</p>
