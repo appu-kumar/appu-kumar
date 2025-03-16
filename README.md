@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://appu-kumar.github.io/akportfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
-- 💬 Ask me about **react.js, next.js, Js, Java**
+- 💬 Ask me about **react.js, vue.js, Js, Java**
 
 - 📫 How to reach me **appu6688kumar@gmail.com**
 
