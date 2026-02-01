@@ -7,9 +7,10 @@
 - 💬 Ask me about <b>React.js, Vue.js, JavaScript, Java</b>
 - 📫 How to reach me: <b>appu6688kumar@gmail.com</b>
 - 📄 Know about my experiences:
-  <a href="https://drive.google.com/file/d/1oJWLArfsjj5hStd_CvNu2ZoGiTbYfI3o/view" target="_blank">
-    Resume
-  </a>
+  <a href="https://drive.google.com/file/d/1n_uUXej_Tsrsf62a9_GX9Rm2gqgv6UK5/view?usp=sharing" target="_blank">
+  Resume
+</a>
+
 
 ---
 
