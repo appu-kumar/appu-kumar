@@ -42,30 +42,4 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=appu-kumar&show_icons=true&theme=default"/>
-</p>
-
----
-
-<h3 align="left">🔥 GitHub Streak:</h3>
-<p>
-  <img src="https://streak-stats.demolab.com?user=appu-kumar"/>
-</p>
-
----
-
-<h3 align="left">💻 Most Used Languages:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=appu-kumar&layout=compact"/>
-</p>
-
----
-
-<h3 align="left">📈 Activity Graph:</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=appu-kumar&theme=github"/>
-</p>
