@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Appu Kumar</h1>
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on <a href=""https://github.com/appu-kumar/mystryMessage" target="_blank">Pizza App</a>
+- 🔭 I’m currently working on <a href="https://github.com/appu-kumar/PizzaApp" target="_blank">Pizza App</a>
 - 🌱 I’m currently learning <b>React.js, Next.js</b>
 - 👨‍💻 All of my projects are available at <a href="https://appu-kumar.github.io/akportfolio/" target="_blank">My Portfolio</a>
 - 💬 Ask me about <b>React.js, Vue.js, JavaScript, Java</b>
