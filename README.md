@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/appu-kumar/PizzaApp" target="_blank">Pizza App</a>
 - 🌱 I’m currently learning <b>React.js, Next.js</b>
-- 👨‍💻 All of my projects are available at <a href="https://appu-kumar.github.io/akportfolio/" target="_blank">My Portfolio</a>
 - 💬 Ask me about <b>React.js, Vue.js, JavaScript, Java</b>
 - 📫 How to reach me: <b>appu6688kumar@gmail.com</b>
 - 📄 Know about my experiences:
