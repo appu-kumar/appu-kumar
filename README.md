@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/appu-kumar/PizzaApp" target="_blank">Pizza App</a>
-- 🌱 I’m currently learning <b>React.js, Next.js</b>
+- 🌱 I’m currently learning <b>Spring AI</b>
 - 💬 Ask me about <b>Java, Core Java, Springboot, Spring MVC, DSA, JUnit5, SpringData JPA, PostgreSQL, React.js, Vue.js, JavaScript</b>
 - 📫 How to reach me: <b>appu6688kumar@gmail.com</b>
 - 📄 Know about my experiences:
